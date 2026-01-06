@@ -1,0 +1,16 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Smart Campus Ecosystem",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^11.0.0",
+    "firebase-functions": "^4.0.0"
+  },
+  "private": true
+}
